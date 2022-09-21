@@ -1,0 +1,3 @@
+Para corre o projecto matlab:
+-adicionar a diretoria professor ao projecto
+-correr "fala_code" e posteriormente "fala_decode"
